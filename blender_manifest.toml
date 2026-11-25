@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+id = "smart_anchor_uv"
+version = "1.0.0"
+name = "Smart Anchor UV"
+tagline = "Deform box meshes using two-step UV editing"
+maintainer = "Smart Anchor UV Contributors"
+type = "add-on"
+tags = ["UV", "Modeling"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
